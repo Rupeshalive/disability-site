@@ -6494,7 +6494,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 1.5rem !important; }
 
 .mr-5,
 .mx-5 {
@@ -6995,7 +6995,7 @@ button.bg-dark:focus {
     margin: 0 !important; }
   .mt-md-0,
   .my-md-0 {
-    margin-top: 0 !important; }
+    margin-top: 3 !important; }
   .mr-md-0,
   .mx-md-0 {
     margin-right: 0 !important; }
@@ -9176,7 +9176,7 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
 
